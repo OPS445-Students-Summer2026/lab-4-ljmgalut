@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: ljmgalut
+    Linux system name: ljmgalut-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
+    VS Code version:  1.119.0 0
+    OS Platform: linux
+    Working Directory: /home/ljmgalut/ops445/lab4
+    Start at: Tue Jun  2 01:35:07 2026
+=================================================================
